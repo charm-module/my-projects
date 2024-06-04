@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class AdminpanelConfig(AppConfig):
-    name = 'adminpanel'
+class AppConfig(AppConfig):
+    name = 'app'
